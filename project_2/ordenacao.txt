@@ -1,0 +1,5 @@
+int nos = count(tree); 
+	Item *items = (Item*)calloc(nos, sizeof(Item)); //crio um vetor de Items e reservo espaco para o numero de items da arvore
+	tree_to_array(tree, items, 0); //items contem a arvore
+	
+	radixsort(items, nos, maior);

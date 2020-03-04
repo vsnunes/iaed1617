@@ -1,1 +1,10 @@
-# iaed1617
+# Introdução aos Algoritmos e Estruturas de Dados
+
+## Project 1
+
+Nos nossos dias, os sistemas de gestão e monitorização de tráfego são fundamentais nas áreas de segurança nacional, gestão de calamidades, gestão de impacto ambiental, planeamento de redes de transportes, entre outras.Uma forma de monitorizartráfego é através de um grafo(ou rede)em que cada nó (ou vértice) corresponde  a  um  ponto  de  interesse  de  estudo,  e  cada  aresta  entre  dois  nós,  uma  possível ligação  entre  esses  dois  pontos.Esta  representação  permite  não  só  estudar  a  robustez  de  uma rede, mas tambéma distribuição e redundância da mesma.Neste   projecto   pretendemos   desenvolver   um   programa   em   C   que   registe   e   manipule   a informação referente à gestão de uma redede aeroportos. Cada aeroporto é representado por um vértice, enquanto que as arestas entre vértices representam ligações aéreas entre dois aeroportos.2.Especificação do programaUm  aeroporto  é  composto  por  um código  de  identificação(3  carácteres),  uma capacidade máximade  operação,  e  um estado.  A  capacidade  máxima  de  operação  deverá  ser  um número inteiro maior do que zero, e corresponde ao número máximo(total)de voos que podem partir e chegar ao aeroporto; oestado de um aeroporto poderá tomar um de dois valores: 1 (aberto) ou 0 (encerrado).  Ao  longo  do  tempo,  a  capacidade  de  operação  e  o  estado  de  cada  um  dos aeroportos  pode  variar. O código  de  identificação  de  um  aeroporto  é  fixo.  Assume-se  que  o limite máximo do número total deaeroportosé de 103.
+
+
+## Project 2
+As hashtagssão  hoje  um  popular  termo  para  denominar  palavras-chaveou referênciasa  uma informação, tópico ou discussão que se deseja indexar de forma explícita. Popularizadas peloTwitter, e posteriormentepeloFacebook, Google+eInstagram, entre outros, as hashtagssão compostas pela palavra-chave do assunto antecedida por um cardinal (#). 
+O objectivo deste projeto é o desenvolvimento, em linguagem C,de um programa para contagem do número de ocorrênciasde cada hashtagnum conjunto de mensagensdadas.Mais especificamente, a interacção com o programa deverá ocorrer através de um conjunto de linhas compostas por uma letra (comando)  e  um  eventual  argumento.

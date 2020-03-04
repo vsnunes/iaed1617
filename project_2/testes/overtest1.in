@@ -1,0 +1,11 @@
+a Um #conjunto de #fbfs diz-se satisfazivel #se e so #se existir pelo menos uma #interpretacao que satisfaca todas as #fbfs do conjunto.
+a Um #conjunto contraditorio de #fbfs diz-se contraditorio #se e #so #se nao existir nenhuma #interpretacao que satisfaca todas as fbfs. Teste
+a #Amaiorhastagquepossivelmenteirasertestadanoteuprogramamastemcuidadoparanaopassaroscaracteresdoeenunciadoedepoisoprogramanomooksak
+a Um #grafo #dirigdo e #rotulado a uma #estrutura em que N e um #conjunto #finito de #nos e a e um #conjunto de #relacoes #binarias
+a Os #rotulos podem ser #OMITIDOS se usarmos diferentes #tipos de #LiNhAs
+a Num #grafo #dirigido e #rotulado define-se um #caminho segundo uma #relacao como sendo uma sequencia de #nos.
+a Diagrama de decisao #binaria e um #GRAfo #dirigido, #rotulado e #aciclico em que os #rotulos dos #nos pertencem ao #conjunto.
+a #Nos terminais tem #rotulos V ou F.
+a #Profundidade de um #nO e o numero de #nos segundo qualquer #relacao entre a #raiz e esse #no, nao contando com a #raiz
+a A #profundidade de qualquer #raiz #bbd e zero.
+a #Nos ao nivel #m de um #BBD: #nos cuja #profundidade e #m.
